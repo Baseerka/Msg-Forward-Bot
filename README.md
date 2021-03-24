@@ -14,7 +14,7 @@ or you can host and run this bot on [Heroku](https://github.com/keselekpermen69/
 
 ### Host on Heroku
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/KeselekPermen69/Telegram_Forwarder/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Baseerka/Msg-Forward-Bot.git"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 
 ## Setting Up The Bot (Read Before Trying To Use!):
@@ -83,4 +83,4 @@ This will install all necessary python packages.
 
 ### Credits
 
-* [saksham2410](https://github.com/saksham2410) - AutoForwarder-TelegramBot
+* [Baseer](https://github.com/Baseerka) - AutoForwarder-TelegramBot
